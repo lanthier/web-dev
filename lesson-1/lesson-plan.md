@@ -19,3 +19,9 @@
    - specific attributes
      - href tag on a
      - src on img
+
+
+- Next Steps:
+  - 1. Download VSCode (Visual Studio Code)
+  - 2. Clone this repo from GitHub (install git)
+  - 3. Go through these exercises on W3 schools: https://www.w3schools.com/html/exercise.asp (Pay attention to syntax)
