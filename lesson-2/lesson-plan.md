@@ -26,8 +26,7 @@
       - Alignment
       - Decoration
       - Transformation
-    - Display Modes
-      - 
+    - Display Modes 
 - Flexbox
 
 - Next Steps:
