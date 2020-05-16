@@ -2,4 +2,4 @@
 
 ## Get started:
 
-`git clone https://github.com/lanthier/web-dev`
+`git clone https://github.com/lanthier/web-dev.git`
