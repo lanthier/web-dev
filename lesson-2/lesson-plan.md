@@ -34,5 +34,5 @@
   2. CSS W3 Schools Excersis AND Readings All the Way until Tables
   3. Selectors Practice on codepen: https://codepen.io/Lanthier/pen/jObezGB
   4. More HTML Stuff that I can give you
-  5. Good reading on flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  5. Good reading on flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ (focus on flex-direction, justify-content, and align-items)
   6. Flexbox froggy game: https://flexboxfroggy.com/
