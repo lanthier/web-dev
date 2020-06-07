@@ -1,0 +1,13 @@
+.navigation {
+  background: #CFD8DC;
+  height: 44px;
+  display: flex;
+  justify-content: flex-end; /* justify-content = Main access*/
+  align-items: center; /* align-items = Cross access */
+}
+
+/* Select all a elements inside the class "navigation" */
+.navigation > a {
+  margin: 32px;
+  font-size: 18px;
+}

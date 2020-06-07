@@ -1,0 +1,27 @@
+.container {
+  margin: 128px; /* All sides */
+  margin: 64px 164px; /* Top/Bottom Right/Left */
+  margin: 64px 512px 32px 512px; /* Top Right Bottom Left */
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field {
+  padding: 6px;
+  margin-bottom: 16px;
+}
+
+.label-input {
+  padding-bottom: 6px;
+  font-weight: 600;
+}
+
+.signup-button {
+  width: 150px;
+  padding: 8px;
+  background-color: #455A64;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  align-self: flex-end;
+}

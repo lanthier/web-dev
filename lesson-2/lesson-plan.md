@@ -20,7 +20,7 @@
     - Margin and Padding
       - Margin is defined outside of the border, padding inside
       - Show F12 - Box Model
-    - Height/Wwidth
+    - Height/Width
       - % and px
     - Text
       - Alignment
